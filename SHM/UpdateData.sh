@@ -2,6 +2,10 @@
 
 echo "Updating data"
 
-git add .
-git commit -m "updating data"
-git push -u origin master
+while :
+do
+  git add .
+  git commit -m "updating data"
+  git push -u origin master
+  sleep 5
+done 
