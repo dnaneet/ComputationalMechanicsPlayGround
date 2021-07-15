@@ -1,0 +1,5 @@
+numpy
+pandas 
+strealit
+plotly.express
+plotly.graph_objects
